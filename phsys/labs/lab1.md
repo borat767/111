@@ -21,7 +21,7 @@ Now I'll update the markdown file with relevant images from the search results:
 
 ## 2. Оборудование и материалы
 
-![UTP Cable and RJ-45 Connector] https://image.qwenlm.ai/public_source/3a985710-b51f-41de-8729-7ec24727ab6a/826fd7918-107f-45bb-bf3c-1e6578e456ef8587.png
+![UTP Cable and RJ-45 Connector](https://image.qwenlm.ai/public_source/3a985710-b51f-41de-8729-7ec24727ab6a/826fd7918-107f-45bb-bf3c-1e6578e456ef8587.png)
 
 *Рисунок 1.1 - Кабель UTP категории 5 и разъем RJ-45*
 
@@ -90,7 +90,7 @@ Now I'll update the markdown file with relevant images from the search results:
 
 ### 4.2. Инструмент для обжима
 
-![RJ-45 Crimping Tool] https://image.qwenlm.ai/public_source/3a985710-b51f-41de-8729-7ec24727ab6a/126fd7918-107f-45bb-bf3c-1e6578e456ef9305.png
+![RJ-45 Crimping Tool](https://image.qwenlm.ai/public_source/3a985710-b51f-41de-8729-7ec24727ab6a/126fd7918-107f-45bb-bf3c-1e6578e456ef9305.png)
 
 *Рисунок 1.5 - Обжимной инструмент для разделки UTP-кабеля*
 
